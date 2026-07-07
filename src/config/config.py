@@ -40,7 +40,7 @@ def get_project_paths() -> ProjectPaths:
     """
 
     # src/config/config.py -> src/config -> src -> project_root
-    root = Path(__file__).resolve().parents[3]
+    root = Path(__file__).resolve().parents[2]
 
     data_raw = root / "data" / "raw"
     data_processed = root / "data" / "processed"

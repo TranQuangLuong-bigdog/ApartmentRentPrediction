@@ -1,0 +1,30 @@
+2026-07-07 21:06:34 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for data\apartment_rent.csv
+2026-07-07 21:06:34 - src.dataset.dataset_loader - INFO - Detected separator=',' for data\apartment_rent.csv
+2026-07-07 21:06:34 - src.dataset.dataset_loader - INFO - Loading CSV: data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-07 21:08:04 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for data\apartment_rent.csv
+2026-07-07 21:08:04 - src.dataset.dataset_loader - INFO - Detected separator=',' for data\apartment_rent.csv
+2026-07-07 21:08:04 - src.dataset.dataset_loader - INFO - Loading CSV: data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-07 21:11:01 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for data\apartment_rent.csv
+2026-07-07 21:11:01 - src.dataset.dataset_loader - INFO - Detected separator=',' for data\apartment_rent.csv
+2026-07-07 21:11:01 - src.dataset.dataset_loader - INFO - Loading CSV: data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-08 02:21:35 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for data\apartment_rent.csv
+2026-07-08 02:21:35 - src.dataset.dataset_loader - INFO - Detected separator=',' for data\apartment_rent.csv
+2026-07-08 02:21:35 - src.dataset.dataset_loader - INFO - Loading CSV: data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-08 02:26:03 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:03 - src.dataset.dataset_loader - INFO - Detected separator=',' for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:03 - src.dataset.dataset_loader - INFO - Loading CSV: C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-08 02:26:17 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:17 - src.dataset.dataset_loader - INFO - Detected separator=',' for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:17 - src.dataset.dataset_loader - INFO - Loading CSV: C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-08 02:26:30 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:30 - src.dataset.dataset_loader - INFO - Detected separator=',' for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:30 - src.dataset.dataset_loader - INFO - Loading CSV: C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-08 02:26:47 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:47 - src.dataset.dataset_loader - INFO - Detected separator=',' for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:47 - src.dataset.dataset_loader - INFO - Loading CSV: C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-08 02:26:59 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:59 - src.dataset.dataset_loader - INFO - Detected separator=',' for C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv
+2026-07-08 02:26:59 - src.dataset.dataset_loader - INFO - Loading CSV: C:\Users\luong\Desktop\ApartmentRentPrediction\data\apartment_rent.csv (encoding=utf-8-sig, sep=',')
+2026-07-08 02:33:34 - src.dataset.dataset_loader - INFO - Detected encoding=utf-8-sig for data\apartment_rent.csv
+2026-07-08 02:33:34 - src.dataset.dataset_loader - INFO - Detected separator=',' for data\apartment_rent.csv
+2026-07-08 02:33:34 - src.dataset.dataset_loader - INFO - Loading CSV: data\apartment_rent.csv (encoding=utf-8-sig, sep=',')

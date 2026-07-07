@@ -28,7 +28,6 @@ from src.config.config import ProjectPaths, get_project_paths
 from src.evaluation.visualization import (
     plot_boxplot,
     plot_correlation_heatmap,
-    plot_distribution,
     plot_feature_distribution,
     plot_learning_curve,
     plot_loss,
@@ -39,7 +38,6 @@ from src.evaluation.visualization import (
     plot_training_summary,
 )
 
-from src.evaluation.visualization import plot_heatmap  # type: ignore
 
 from src.models.metrics import compute_metrics
 

@@ -1,0 +1,102 @@
+Area,Bedrooms,Bathrooms,Floor,City,Furnished,Rent,ImagePath
+45,1,1,2,Da Nang,Yes,1200,assets/building_01.png
+55,1,1,5,Da Nang,No,1500,assets/building_02.png
+62,2,1,3,Hanoi,Yes,2100,assets/building_03.png
+70,2,2,7,Hanoi,Yes,2600,assets/building_04.png
+80,2,2,9,Hochiminh,Yes,3200,assets/building_05.png
+90,3,2,4,Hochiminh,No,3500,assets/building_06.png
+100,3,2,6,Hanoi,No,4000,assets/building_07.png
+110,3,2,10,Hochiminh,Yes,4800,assets/building_08.png
+120,4,2,2,Da Nang,Yes,5200,assets/building_09.png
+130,4,3,8,Hanoi,No,6000,assets/building_10.png
+140,4,3,12,Hochiminh,Yes,7200,assets/building_11.png
+150,3,2,5,Da Nang,No,3800,assets/building_12.png
+160,2,2,7,Hanoi,Yes,4500,assets/building_13.png
+170,3,1,3,Da Nang,Yes,4100,assets/building_14.png
+180,2,2,6,Hochiminh,No,4200,assets/building_15.png
+190,3,2,9,Hanoi,Yes,6100,assets/building_16.png
+200,4,3,11,Hochiminh,Yes,8500,assets/building_17.png
+210,4,2,4,Da Nang,No,5600,assets/building_18.png
+220,3,3,8,Hanoi,Yes,7800,assets/building_19.png
+230,2,2,10,Hochiminh,No,5900,assets/building_20.png
+240,3,2,2,Hanoi,Yes,6500,assets/building_21.png
+250,4,3,6,Da Nang,Yes,7900,assets/building_22.png
+260,2,1,3,Hochiminh,No,4300,assets/building_23.png
+270,3,2,7,Hanoi,No,6200,assets/building_24.png
+280,4,2,5,Da Nang,Yes,7400,assets/building_25.png
+290,3,3,9,Hochiminh,Yes,9200,assets/building_26.png
+300,4,3,12,Hanoi,Yes,10500,assets/building_27.png
+310,2,2,4,Da Nang,No,5200,assets/building_28.png
+320,3,2,6,Hochiminh,Yes,7300,assets/building_29.png
+330,4,3,8,Hanoi,No,8800,assets/building_30.png
+340,3,2,10,Da Nang,Yes,8100,assets/building_31.png
+350,2,1,2,Hochiminh,No,4600,assets/building_32.png
+360,3,2,5,Hanoi,Yes,7600,assets/building_33.png
+370,4,2,7,Da Nang,No,7000,assets/building_34.png
+380,3,3,9,Hochiminh,Yes,9800,assets/building_35.png
+390,4,3,11,Hanoi,Yes,11200,assets/building_36.png
+400,2,2,3,Da Nang,Yes,6100,assets/building_37.png
+410,3,2,6,Hochiminh,No,6900,assets/building_38.png
+420,4,3,8,Hanoi,Yes,10500,assets/building_39.png
+430,3,1,10,Da Nang,No,6200,assets/building_40.png
+440,4,2,12,Hochiminh,Yes,11800,assets/building_41.png
+450,2,2,4,Hanoi,Yes,7200,assets/building_42.png
+460,3,2,7,Da Nang,No,6500,assets/building_43.png
+470,4,3,9,Hochiminh,Yes,13200,assets/building_44.png
+480,3,2,11,Hanoi,No,8800,assets/building_45.png
+490,2,1,2,Da Nang,Yes,5900,assets/building_46.png
+500,4,3,5,Hochiminh,Yes,14500,assets/building_47.png
+510,3,2,8,Hanoi,Yes,9900,assets/building_48.png
+520,2,2,10,Da Nang,No,6800,assets/building_49.png
+530,4,2,12,Hochiminh,Yes,15000,assets/building_50.png
+540,3,3,3,Hanoi,No,9400,assets/building_51.png
+550,2,1,6,Da Nang,Yes,6100,assets/building_52.png
+560,3,2,9,Hochiminh,No,7600,assets/building_53.png
+570,4,3,11,Hanoi,Yes,16000,assets/building_54.png
+580,3,2,4,Da Nang,No,7200,assets/building_55.png
+590,2,2,7,Hochiminh,Yes,8200,assets/building_56.png
+600,4,3,10,Hanoi,Yes,17500,assets/building_57.png
+610,3,1,12,Da Nang,No,6900,assets/building_58.png
+620,2,2,5,Hochiminh,Yes,8400,assets/building_59.png
+630,4,2,8,Hanoi,No,9100,assets/building_60.png
+640,3,3,10,Da Nang,Yes,12000,assets/building_61.png
+650,2,1,2,Hochiminh,No,6500,assets/building_62.png
+660,3,2,6,Hanoi,Yes,9800,assets/building_63.png
+670,4,3,9,Da Nang,Yes,13500,assets/building_64.png
+680,3,2,11,Hochiminh,No,8600,assets/building_65.png
+690,2,2,4,Hanoi,Yes,8900,assets/building_66.png
+700,4,3,7,Da Nang,No,14200,assets/building_67.png
+710,3,2,9,Hochiminh,Yes,10500,assets/building_68.png
+720,2,1,11,Hanoi,No,7200,assets/building_69.png
+730,4,2,5,Da Nang,Yes,15500,assets/building_70.png
+740,3,3,8,Hochiminh,Yes,12800,assets/building_71.png
+750,2,2,10,Hanoi,Yes,9500,assets/building_72.png
+760,3,2,12,Da Nang,No,8300,assets/building_73.png
+770,4,3,4,Hochiminh,Yes,17000,assets/building_74.png
+780,2,1,7,Hanoi,No,6800,assets/building_75.png
+790,3,2,9,Da Nang,Yes,9800,assets/building_76.png
+800,4,3,11,Hochiminh,Yes,18500,assets/building_77.png
+810,3,2,6,Hanoi,Yes,10800,assets/building_78.png
+820,2,2,8,Da Nang,No,7600,assets/building_79.png
+830,4,2,10,Hochiminh,Yes,17500,assets/building_80.png
+840,3,3,12,Hanoi,No,11200,assets/building_81.png
+850,2,1,3,Da Nang,Yes,6900,assets/building_82.png
+860,3,2,6,Hochiminh,No,8800,assets/building_83.png
+870,4,3,9,Hanoi,Yes,19000,assets/building_84.png
+880,3,2,11,Da Nang,No,9300,assets/building_85.png
+890,2,2,4,Hochiminh,Yes,8100,assets/building_86.png
+900,4,3,7,Hanoi,Yes,20000,assets/building_87.png
+910,3,1,9,Da Nang,No,8400,assets/building_88.png
+920,2,2,11,Hochiminh,Yes,8700,assets/building_89.png
+930,4,2,5,Hanoi,Yes,21000,assets/building_90.png
+940,3,3,8,Da Nang,No,9600,assets/building_91.png
+950,2,1,10,Hochiminh,Yes,7600,assets/building_92.png
+960,3,2,12,Hanoi,No,9000,assets/building_93.png
+970,4,3,6,Da Nang,Yes,22000,assets/building_94.png
+980,3,2,9,Hochiminh,Yes,10500,assets/building_95.png
+990,2,2,11,Hanoi,No,8200,assets/building_96.png
+1000,4,3,12,Da Nang,Yes,23000,assets/building_97.png
+1010,3,2,4,Hochiminh,No,9500,assets/building_98.png
+1020,2,1,7,Hanoi,Yes,8400,assets/building_99.png
+1030,4,2,10,Da Nang,No,9800,assets/building_100.png
+

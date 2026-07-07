@@ -1,7 +1,7 @@
 You are a Senior Machine Learning Engineer.
 
 Project Name
-Apartment Rent Prediction using Artificial Neural Network
+Apartment Rent Prediction using Artificial Neural Network (ANN)
 
 Programming Language
 Python
@@ -15,7 +15,7 @@ Modular / Clean Architecture
 Coding Style
 PEP8
 
-Objective
+ObjectiĐã cập nhật/bổ sung file “bộ não” theo yêu cầu vào: docs/PromptForBlackbox.md (đảm bảo có hướng dẫn ANN, modular kiến trúc, TensorFlow/sklearn stack, rule production, logging, lưu model/scaler/encoder, generate charts & prediction CSV, và deliverable docs/AI_Assistant.md).ve
 Build a complete ANN model to predict apartment rental prices and provide a production-ready ML application.
 
 Requirements
@@ -24,8 +24,6 @@ Use Pandas
 Use NumPy
 Use sklearn
 Use Matplotlib
-Use Streamlit for UI
-
 Write reusable code.
 
 Every module must have comments.

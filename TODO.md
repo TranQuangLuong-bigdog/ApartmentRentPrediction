@@ -1,25 +1,28 @@
-# TODO - Registry Enhancement (PR6)
+# TODO - ApartmentRentPrediction (ANN + PySide6 GUI)
 
-- [ ] Update `src/model_registry/model_metadata.py`:
-  - Ensure schema includes `dataset_hash`, `feature_schema`, `categorical_columns`, `numerical_columns`, `pipeline_version`, `preprocessing_version`, `active_model` (via registry top-level pointer).
-  - Add defaults for backward compatibility with old registry entries.
+- [ ] Bước 1: Sửa `app/app.py` thành PySide6 entrypoint (mở `MainWindow`).
+- [x] Bước 2: Hoàn thiện router/menu trong `app/main_window.py` và `app/sidebar.py` để chuyển page.
 
-- [ ] Update `src/model_registry/registry.py`:
-  - Add file lock protecting `trained_models/registry.json`.
-  - Implement new methods without changing current public API:
-    - `check_compatibility()`
-    - `compare_models()`
-    - `search_model()`
-    - `export_registry()`
-    - `upgrade_registry()`
-    - `migrate_registry()`
-  - Ensure top-level fields exist: `active_model`, `latest_model`, `best_model`.
+- [x] Bước 3: Viết PySide6 UI cho các page: 
+  - [x] `app/pages/dataset_page.py`
+  - [x] `app/pages/training_page.py`
+  - [x] `app/pages/prediction_page.py`
+  - [x] `app/pages/evaluation_page.py`
+  - [x] `app/pages/model_page.py`
+  - [x] `app/pages/settings_page.py`
 
-- [ ] Add unit tests `tests/test_registry.py`:
-  - Validate migrate/upgrade behavior from current `trained_models/registry.json`.
-  - Validate `check_compatibility` pass/fail.
-  - Validate `export_registry` outputs expected files.
-  - Validate search/compare return deterministic order.
+- [x] Bước 4: Mỗi page chỉ gọi service trong `src/` (không chứa logic AI thô).
 
-- [ ] Run tests: `pytest -q`.
+- [x] Bước 5: Cập nhật `requirements.txt` thêm `PySide6` (giữ `streamlit` cho an toàn).
+
+- [ ] Bước 6: Chạy smoke test:
+  - [ ] `python main.py` (đảm bảo train/evaluate CLI vẫn chạy)
+  - [ ] `python app/app.py` (đảm bảo GUI mở và chuyển page)
+
+- [ ] Bước 7: UI bổ sung upload ảnh + demo sample_properties.csv
+  - [ ] DatasetPage: import/preview/stats/missing/duplicate/upload image + sort
+  - [ ] PredictionPage: upload image + input fields + lưu history
+
+- [ ] Bước 8: ModelPage đầy đủ CRUD (load/delete/rename/activate)
+
 
